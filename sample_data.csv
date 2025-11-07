@@ -1,0 +1,17 @@
+id,name,value
+1,Temperature Reading,98.6
+1,Blood Pressure,120/80
+1,Heart Rate,72
+2,Temperature Reading,99.1
+2,Blood Pressure,130/85
+2,Heart Rate,78
+3,Temperature Reading,97.8
+3,Blood Pressure,115/75
+3,Heart Rate,68
+3,Weight,165
+4,Temperature Reading,98.2
+4,Blood Pressure,125/82
+5,Temperature Reading,100.2
+5,Blood Pressure,140/90
+5,Heart Rate,85
+5,Oxygen Level,95
